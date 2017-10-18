@@ -1,0 +1,4 @@
+FSharp.Core
+Microsoft.Azure.WebJobs
+Microsoft.AspNet.WebApi.Core
+Microsoft.AspNet.WebApi.Client
